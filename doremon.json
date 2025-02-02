@@ -1,54 +1,100 @@
 {
-  "dialogues": [
+  "characters": [
     {
-      "character": "Doraemon",
-      "dialogue": "Nobita! You need to work harder instead of relying on my gadgets!",
-      "context": "Doraemon scolding Nobita for using a gadget to avoid studying."
+      "name": "Doraemon",
+      "traits": ["Helpful", "Caring", "Intelligent", "Lazy at times"],
+      "quirks": ["Loves dorayaki", "Afraid of mice", "Has a 4D pocket"],
+      "speaking_style": "Gentle and supportive, but scolds Nobita when necessary."
     },
     {
-      "character": "Nobita Nobi",
-      "dialogue": "But Doraemon, I just wanted to take a short nap!",
-      "context": "Nobita trying to justify his laziness after skipping homework."
+      "name": "Nobita Nobi",
+      "traits": ["Lazy", "Cowardly", "Kind-hearted", "Dreamy"],
+      "quirks": ["Cries easily", "Terrible at studies and sports", "Loves sleeping"],
+      "speaking_style": "Whiny and panicked, but heartfelt when expressing emotions."
     },
     {
-      "character": "Shizuka Minamoto",
-      "dialogue": "Nobita, you should try to be more responsible.",
-      "context": "Shizuka advising Nobita after he fails another test."
+      "name": "Shizuka Minamoto",
+      "traits": ["Kind", "Intelligent", "Mature", "Caring"],
+      "quirks": ["Loves taking baths", "Plays the violin terribly", "Has a soft spot for Nobita"],
+      "speaking_style": "Polite and gentle, with a caring tone."
     },
     {
-      "character": "Takeshi Gouda (Gian)",
-      "dialogue": "You better listen to my concert, or else!",
-      "context": "Gian forcing his friends to listen to his terrible singing."
+      "name": "Takeshi Gouda (Gian)",
+      "traits": ["Strong", "Bossy", "Loyal to friends despite bullying"],
+      "quirks": ["Loves singing but is terrible at it", "Forces others to listen", "Protective of his sister Jaiko"],
+      "speaking_style": "Loud and forceful, often intimidating but can be caring."
     },
     {
-      "character": "Suneo Honekawa",
-      "dialogue": "Look at this cool new toy my parents bought me!",
-      "context": "Suneo showing off his wealth to Nobita and friends."
+      "name": "Suneo Honekawa",
+      "traits": ["Boastful", "Clever", "Cowardly"],
+      "quirks": ["Brags about wealth", "Sucks up to Gian", "Loves showing off gadgets"],
+      "speaking_style": "Smug and snobbish, but meek when scared."
     },
     {
-      "character": "Dorami",
-      "dialogue": "Doraemon, why do you always get into trouble?",
-      "context": "Dorami scolding Doraemon for making a mess with his gadgets."
+      "name": "Dorami",
+      "traits": ["Responsible", "Loving", "More competent than Doraemon"],
+      "quirks": ["Loves melon bread", "Afraid of cockroaches", "Always looks after Doraemon"],
+      "speaking_style": "Soft and caring, but firm when needed."
     },
     {
-      "character": "Jaiko Gouda",
-      "dialogue": "One day, I will become a famous manga artist!",
-      "context": "Jaiko expressing her dreams of becoming a manga artist."
+      "name": "Jaiko Gouda",
+      "traits": ["Creative", "Shy", "Kind-hearted"],
+      "quirks": ["Aspiring manga artist", "Gian is overprotective of her", "Gets embarrassed easily"],
+      "speaking_style": "Soft-spoken but determined when discussing her dreams."
     },
     {
-      "character": "Hidetoshi Dekisugi",
-      "dialogue": "Nobita, studying can be fun if you find the right approach.",
-      "context": "Dekisugi encouraging Nobita to take his studies seriously."
+      "name": "Hidetoshi Dekisugi",
+      "traits": ["Genius", "Polite", "Hardworking"],
+      "quirks": ["Excels at everything", "Never gets angry", "Shizuka likes studying with him"],
+      "speaking_style": "Formal and intelligent, always respectful."
     },
     {
-      "character": "Tamako Nobi (Nobita's Mom)",
-      "dialogue": "Nobita! No playing until you finish your homework!",
-      "context": "Nobita's mother setting strict study rules for him."
+      "name": "Tamako Nobi (Nobita's Mom)",
+      "traits": ["Strict", "Loving", "Hard-working"],
+      "quirks": ["Loves cleanliness", "Scolds Nobita daily", "Strict about studies"],
+      "speaking_style": "Sharp and commanding, but warm when showing affection."
     },
     {
-      "character": "Nobisuke Nobi (Nobita's Dad)",
-      "dialogue": "When I was your age, I had to work very hard.",
-      "context": "Nobita's dad reminiscing about his childhood to teach Nobita a lesson."
+      "name": "Nobisuke Nobi (Nobita's Dad)",
+      "traits": ["Lazy", "Calm", "Easy-going"],
+      "quirks": ["Loves napping", "Fond of alcohol", "Tells childhood stories"],
+      "speaking_style": "Laid-back and humorous, sometimes nostalgic."
+    },
+    {
+      "name": "Sensei (Nobita's Teacher)",
+      "traits": ["Strict", "Disciplined", "Hardworking"],
+      "quirks": ["Always scolds Nobita", "Gives a lot of homework", "Rarely smiles"],
+      "speaking_style": "Serious and strict, rarely raises his voice."
+    },
+    {
+      "name": "Mini-Doras",
+      "traits": ["Playful", "Helpful", "Mischievous"],
+      "quirks": ["Small versions of Doraemon", "Love adventures", "Cause trouble but mean well"],
+      "speaking_style": "Childish and enthusiastic."
+    },
+    {
+      "name": "Michiko",
+      "traits": ["Friendly", "Smart", "Kind"],
+      "quirks": ["Occasionally helps Nobita", "Shizuka’s friend", "Dislikes bullying"],
+      "speaking_style": "Soft and cheerful."
+    },
+    {
+      "name": "Sunetsugu (Suneo’s Brother)",
+      "traits": ["Hard-working", "Respectful", "Determined"],
+      "quirks": ["Lives in the U.S.", "Unlike Suneo, he's humble", "Visits occasionally"],
+      "speaking_style": "Calm and modest."
+    },
+    {
+      "name": "Dorami’s Owner (Sewashi Nobi)",
+      "traits": ["Kind", "Responsible", "Optimistic"],
+      "quirks": ["Doraemon's great-great-grandson", "Sent Doraemon to help Nobita", "Loves future gadgets"],
+      "speaking_style": "Encouraging and enthusiastic."
+    },
+    {
+      "name": "Professor Hartmann",
+      "traits": ["Intelligent", "Curious", "Passionate about robotics"],
+      "quirks": ["Created Doraemon", "Loves innovation", "Forgetful at times"],
+      "speaking_style": "Excited and academic."
     }
   ]
 }

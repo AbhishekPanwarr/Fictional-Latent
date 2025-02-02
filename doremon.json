@@ -1,0 +1,54 @@
+{
+  "dialogues": [
+    {
+      "character": "Doraemon",
+      "dialogue": "Nobita! You need to work harder instead of relying on my gadgets!",
+      "context": "Doraemon scolding Nobita for using a gadget to avoid studying."
+    },
+    {
+      "character": "Nobita Nobi",
+      "dialogue": "But Doraemon, I just wanted to take a short nap!",
+      "context": "Nobita trying to justify his laziness after skipping homework."
+    },
+    {
+      "character": "Shizuka Minamoto",
+      "dialogue": "Nobita, you should try to be more responsible.",
+      "context": "Shizuka advising Nobita after he fails another test."
+    },
+    {
+      "character": "Takeshi Gouda (Gian)",
+      "dialogue": "You better listen to my concert, or else!",
+      "context": "Gian forcing his friends to listen to his terrible singing."
+    },
+    {
+      "character": "Suneo Honekawa",
+      "dialogue": "Look at this cool new toy my parents bought me!",
+      "context": "Suneo showing off his wealth to Nobita and friends."
+    },
+    {
+      "character": "Dorami",
+      "dialogue": "Doraemon, why do you always get into trouble?",
+      "context": "Dorami scolding Doraemon for making a mess with his gadgets."
+    },
+    {
+      "character": "Jaiko Gouda",
+      "dialogue": "One day, I will become a famous manga artist!",
+      "context": "Jaiko expressing her dreams of becoming a manga artist."
+    },
+    {
+      "character": "Hidetoshi Dekisugi",
+      "dialogue": "Nobita, studying can be fun if you find the right approach.",
+      "context": "Dekisugi encouraging Nobita to take his studies seriously."
+    },
+    {
+      "character": "Tamako Nobi (Nobita's Mom)",
+      "dialogue": "Nobita! No playing until you finish your homework!",
+      "context": "Nobita's mother setting strict study rules for him."
+    },
+    {
+      "character": "Nobisuke Nobi (Nobita's Dad)",
+      "dialogue": "When I was your age, I had to work very hard.",
+      "context": "Nobita's dad reminiscing about his childhood to teach Nobita a lesson."
+    }
+  ]
+}

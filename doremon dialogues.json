@@ -1,0 +1,208 @@
+{
+        
+        "dialogues": [
+          {
+            "context": "Nobita is complaining about his bad grades.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "I always get zero marks in my exams. My mom is going to scold me again!"
+          },
+          {
+            "context": "Doraemon tries to comfort Nobita.",
+            "speaker": "Doraemon",
+            "dialogue": "Nobita, you need to study harder. I can help you, but you have to put in the effort too."
+          },
+          {
+            "context": "Nobita asks Doraemon for a gadget to help him study.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Don’t you have a gadget that can make me smarter?"
+          },
+          {
+            "context": "Doraemon explains the limitations of his gadgets.",
+            "speaker": "Doraemon",
+            "dialogue": "There’s no gadget that can replace hard work, Nobita. You have to learn on your own."
+          },
+          {
+            "context": "Shizuka encourages Nobita to study with her.",
+            "speaker": "Shizuka Minamoto",
+            "dialogue": "Nobita, why don’t you come over to my house? We can study together."
+          },
+          {
+            "context": "Nobita gets excited about studying with Shizuka.",
+            "speaker": "Nobita  Nobi",
+            "dialogue": "Really, Shizuka? That would be great!"
+          },
+          {
+            "context": "Gian bullies Nobita on his way to Shizuka’s house.",
+            "speaker": " (Takeshi Gouda) Gian",
+            "dialogue": "Hey, Nobita! Where do you think you’re going? Give me your lunch money!"
+          },
+          {
+            "context": "Nobita tries to stand up to Gian.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Leave me alone, Gian! I’m going to Shizuka’s house to study."
+          },
+          {
+            "context": "Suneo mocks Nobita for studying.",
+            "speaker": " Suneo Honekawa",
+            "dialogue": "Studying? You? Don’t make me laugh, Nobita!"
+          },
+          {
+            "context": "Doraemon intervenes to help Nobita.",
+            "speaker": "Doraemon",
+            "dialogue": "Leave him alone, Gian and Suneo. Nobita is trying to improve himself."
+          },
+          {
+            "context": "Gian backs off after Doraemon’s warning.",
+            "speaker": "  (Takeshi Gouda) Gian",
+            "dialogue": "Fine, but next time, Nobita, you better have something for me!"
+          },
+          {
+            "context": "Nobita thanks Doraemon for helping him.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Thanks, Doraemon. I don’t know what I’d do without you."
+          },
+          {
+            "context": "Doraemon gives Nobita a gadget to help him focus.",
+            "speaker": "Doraemon",
+            "dialogue": "Here, take this 'Focus Helmet.' It will help you concentrate while studying."
+          },
+          {
+            "context": "Nobita tries on the Focus Helmet.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Wow, this is amazing! I feel so focused now!"
+          },
+          {
+            "context": "Shizuka praises Nobita for his efforts.",
+            "speaker": "Shizuka Minamoto",
+            "dialogue": "See, Nobita? You can do it if you try!"
+          },
+          {
+            "context": "Nobita feels motivated after Shizuka’s praise.",
+            "speaker": "Nobita  Nobi",
+            "dialogue": "Thanks, Shizuka. I’ll do my best!"
+          },
+          {
+            "context": "Nobita’s mom scolds him for not studying earlier.",
+            "speaker": "Tamako Nobi (Nobita's Mom)",
+            "dialogue": "Nobita, why do you always wait until the last minute to study?"
+          },
+          {
+            "context": "Nobita tries to explain himself.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "I’m sorry, Mom. I’ll do better next time."
+          },
+          {
+            "context": "Doraemon comforts Nobita after his mom scolds him.",
+            "speaker": "Doraemon",
+            "dialogue": "Don’t worry, Nobita. Just keep trying your best."
+          },
+          {
+            "context": "Nobita asks Doraemon for another gadget.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Do you have a gadget that can make time go slower? I need more time to study!"
+          },
+          {
+            "context": "Doraemon explains the dangers of messing with time.",
+            "speaker": "Doraemon",
+            "dialogue": "Time is precious, Nobita. You can’t just slow it down whenever you want."
+          },
+          {
+            "context": "Nobita complains about how hard studying is.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Studying is so boring. I wish I could just know everything without trying."
+          },
+          {
+            "context": "Doraemon reminds Nobita of the importance of effort.",
+            "speaker": "Doraemon",
+            "dialogue": "Nothing worth having comes easy, Nobita. You have to work for it."
+          },
+          {
+            "context": "Shizuka invites Nobita to join her for a study group.",
+            "speaker": "Shizuka Minamoto",
+            "dialogue": "Nobita, we’re having a study group tomorrow. Do you want to join?"
+          },
+          {
+            "context": "Nobita hesitates but agrees to join.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Okay, I’ll come. But I hope Gian and Suneo won’t be there."
+          },
+          {
+            "context": "Shizuka reassures Nobita.",
+            "speaker": "Shizuka Minamoto",
+            "dialogue": "Don’t worry, it’s just me and a few friends. No Gian or Suneo."
+          },
+          {
+            "context": "Nobita feels relieved.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "That’s good. I’ll be there!"
+          },
+          {
+            "context": "Doraemon gives Nobita a pep talk before the study group.",
+            "speaker": "Doraemon",
+            "dialogue": "Remember, Nobita, confidence is key. You can do this!"
+          },
+          {
+            "context": "Nobita thanks Doraemon for his support.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Thanks, Doraemon. I’ll do my best!"
+          },
+          {
+            "context": "At the study group, Nobita struggles with a math problem.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "I don’t understand this problem at all. It’s too hard!"
+          },
+          {
+            "context": "Shizuka helps Nobita with the problem.",
+            "speaker": "Shizuka Minamoto",
+            "dialogue": "Here, let me show you how to solve it. It’s not as hard as it looks."
+          },
+          {
+            "context": "Nobita feels grateful for Shizuka’s help.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Thanks, Shizuka. You’re the best!"
+          },
+          {
+            "context": "After the study group, Nobita feels more confident.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "I think I’m starting to understand this stuff. Maybe I’m not so bad after all!"
+          },
+          {
+            "context": "Doraemon praises Nobita for his progress.",
+            "speaker": "Doraemon",
+            "dialogue": "See, Nobita? Hard work pays off. You’re doing great!"
+          },
+          {
+            "context": "Nobita’s mom notices his improvement.",
+            "speaker": "Tamako Nobi (Nobita's Mom)",
+            "dialogue": "Nobita, your grades are getting better. Keep it up!"
+          },
+          {
+            "context": "Nobita feels proud of himself.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Thanks, Mom. I’ll keep working hard!"
+          },
+          {
+            "context": "Gian and Suneo tease Nobita about his studying.",
+            "speaker": "Gian (Takeshi Gouda)",
+            "dialogue": "Hey, Nobita! Are you still studying? What a nerd!"
+          },
+          {
+            "context": "Nobita stands up to Gian and Suneo.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Studying is important, Gian. Maybe you should try it sometime!"
+          },
+          {
+            "context": "Doraemon laughs at Nobita’s newfound confidence.",
+            "speaker": "Doraemon",
+            "dialogue": "Looks like someone’s growing up, Nobita. I’m proud of you!"
+          },
+          {
+            "context": "Nobita smiles and thanks Doraemon.",
+            "speaker": "Nobita Nobi",
+            "dialogue": "Thanks, Doraemon. I couldn’t have done it without you."
+          }
+        ]
+    }
+    
+  
+
